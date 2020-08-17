@@ -347,3 +347,4 @@ dowson          love everybody
 jake            添加一个本地分支再进行合并
 WangYan           再次修改使用的第三次了
 WangJun        java程序员
+WangYan         拉取二级分支到本地进行第一次修改
